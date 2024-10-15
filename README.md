@@ -23,7 +23,7 @@ Docker: Used for managing Kafka services.
 Python: For Kafka producers and Spark Streaming consumers.
 
 1. Clone the Repository
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/yaseen2821/E-commerce Customer Behavior Analytics Pipeline.git
 cd your-repository-name
 
 2. Kafka and Zookeeper Setup (Docker)
