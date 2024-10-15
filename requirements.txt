@@ -1,0 +1,15 @@
+# Required packages for the E-commerce Customer Behavior Analytics Pipeline
+
+# Apache Kafka libraries
+kafka-python==2.0.2  # For producing and consuming messages with Kafka
+
+# PySpark library for Spark Streaming
+pyspark==3.3.1  # Adjust the version according to your setup
+
+# Snowflake Connector for Python
+snowflake-connector-python==2.7.2  # For connecting to Snowflake
+
+# Additional libraries
+pandas==1.5.3  # For data manipulation and analysis
+numpy==1.23.5   # Required by pandas
+requests==2.28.1  # For making HTTP requests to the API
